@@ -8,4 +8,4 @@ The user controls the direction of the snake's head (up, down, left, or right),a
  body follows.
  
  
-This is also one of the projects made in Angela Yu's course(100 days of code: The complete python 2022)
+This is also one of the projects I made in Angela Yu's course(100 days of code: The complete python 2022)
